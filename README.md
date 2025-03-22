@@ -64,7 +64,7 @@ Replace `<path_to_image>`, `<path_to_config>`, and `<path_to_weights>` with appr
 ## Full Project Access
 The complete project, which includes the datasets, training scripts, and additional files, is available on Google Drive.
 
-**Google Drive Link**: [Full Project](https://drive.google.com/your-link-here)
+**Google Drive Link**: [Full Project]([https://drive.google.com/your-link-here](https://drive.google.com/file/d/1W2kJyW6lHnpAVqeB8dw41CRVTNRpGV8b/view?usp=drive_link))
 
 ---
 
