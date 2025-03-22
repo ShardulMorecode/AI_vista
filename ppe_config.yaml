@@ -1,0 +1,14 @@
+names:
+- hard-hat
+- gloves
+- mask
+- glasses
+- boots
+- vest
+- ppe-suit
+- ear-protector
+- safety-harness
+nc: 9
+path: D:/computer_vision_project/datasets/datasets
+train: cropped_images/train
+val: cropped_images/val

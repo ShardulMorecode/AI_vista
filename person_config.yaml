@@ -1,0 +1,5 @@
+path: D:/computer_vision_project/datasets/datasets
+train: images/train
+val: images/val
+nc: 1  # Only "person" class
+names: ["person"]
